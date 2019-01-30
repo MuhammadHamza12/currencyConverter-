@@ -1,0 +1,23 @@
+.parent{
+    display: flex;
+    padding: 50px;
+    /* flex-wrap: wrap; */
+    
+}
+.childiv{
+    margin: 0 auto;
+    width: 450px;
+    
+    height: 600px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px grey;
+}
+.child2{
+    
+}
+.anyClass{
+    /* .anyClass { */
+        height:150px;
+        overflow-y: scroll;
+      
+}
